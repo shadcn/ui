@@ -198,6 +198,11 @@ export const docsConfig: DocsConfig = {
           items: [],
         },
         {
+          title: "Toggle Group",
+          href: "/docs/primitives/toggle-group",
+          items: [],
+        },
+        {
           title: "Toggle",
           href: "/docs/primitives/toggle",
           label: "New",
